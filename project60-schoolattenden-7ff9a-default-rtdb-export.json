@@ -1,0 +1,18 @@
+{
+  "Aishu" : {
+    "absent" : false,
+    "present" : false
+  },
+  "Anjali" : {
+    "absent" : false,
+    "present" : false
+  },
+  "Jacob" : {
+    "absent" : false,
+    "present" : false
+  },
+  "Ravi" : {
+    "absent" : false,
+    "present" : false
+  }
+}
